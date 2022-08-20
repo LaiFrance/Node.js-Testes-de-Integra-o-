@@ -14,7 +14,10 @@ Ainda no exemplo do carro, no teste Ponta-a-Ponta (PaP) podemos fazer um test-dr
 
 
 
-## Ferramentas
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 Testes automatizados</a>
+</h1>
+<img src="https://img.shields.io/badge/-mocha%20%26%20chai-orange"/>
 
 
 ## Referência

@@ -18,7 +18,7 @@ Ainda no exemplo do carro, no teste Ponta-a-Ponta (PaP) podemos fazer um test-dr
     <a href="https://pt-br.reactjs.org/">🔗 Testes automatizados</a>
 </h1>
 <img src="https://img.shields.io/badge/-mocha%20%26%20chai-orange"/>
-
+<code class="language-shell">npm install -D mocha@10.0.0 chai@4.3.6</code>
 
 ## Referência
 

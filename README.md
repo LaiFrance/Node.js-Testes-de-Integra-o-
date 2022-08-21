@@ -1,4 +1,4 @@
-# # Node.js-Testes-de-Integração-
+## Node.js-Testes-de-Integração-
 
 - Testes unitários: considera um escopo limitado a um pequeno fragmento do seu código com interação mínima entre recursos externos.
 Para melhor exemplificar esse tipo de teste, vamos imaginar o teste unitário de um carro. 🚗 O motor precisa ser testado para saber se ele tem potência e torque; já os pneus necessitam de testes para saber se têm boa aderência no asfalto. 
@@ -18,10 +18,14 @@ Ainda no exemplo do carro, no teste Ponta-a-Ponta (PaP) podemos fazer um test-dr
     <a href="https://pt-br.reactjs.org/">🔗 Testes automatizados</a>
 </h1>
 <img src="https://img.shields.io/badge/-mocha%20%26%20chai-orange"/>
-<code class="language-shell">npm install -D mocha@10.0.0 chai@4.3.6</code>
 
-## Referência
+## Installation
+```bash
+npm install -D mocha@10.0.0 chai@4.3.6
+```
+ #### o plugin Chai HTTP simula uma request a API, sem inicializá-la manualmente.
+ ```bash
+ npm install -D chai-http@4.3.0
+ ```
 
- - [Trybe]()
- 
 
